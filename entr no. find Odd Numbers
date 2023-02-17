@@ -1,0 +1,30 @@
+class ODDNumber {
+    public static void main(String[] args) {
+    
+   int Oddnumber, b;  
+   
+Scanner sc=new Scanner(System.in); 
+
+System.out.print("Enter the  ODD limit end: ");  
+Oddnumber = sc.nextInt(); 
+
+b=1;   
+System.out.print("Lit of ODD numbers: ");  
+
+//the while loop executes until the condition become false 
+
+ while(b<=Oddnumber)  
+{  
+//prints the even number 
+
+System.out.print(b +" ");   
+
+//increments the variable i by 2  
+
+b=b+2;  
+
+}
+         
+     
+    }
+}
