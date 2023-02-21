@@ -1,0 +1,20 @@
+import java.util.*;
+class ReverseString {
+
+   public static void main(String[] args) {
+        //ONE
+        String srt="Automatic";
+        StringBuilder sr=new StringBuilder();
+        sr.append(srt);
+        sr=sr.reverse();
+         System.out.println(sr +" " );
+       
+        
+        // Second 
+         String string="ZOHO Corp";
+         StringBuilder next=new StringBuilder();
+         next.append(string);
+         next=next.reverse();
+          System.out.println(next);
+        }
+     }
