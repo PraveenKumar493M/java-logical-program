@@ -1,5 +1,7 @@
-class ODDNumber {
-    public static void main(String[] args) {
+class ODDNumber 
+{
+    public static void main(String[] args) 
+    {
     
    int Oddnumber, b;  
    
