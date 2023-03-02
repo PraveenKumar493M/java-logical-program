@@ -1,7 +1,0 @@
-public staic void main(string[] args)
-{
-      Scanner sc=new scanner (system.in);
-      int a= sc.nextInt();
-      double c= a* 0.0254;
-      System.out.println(c);
-}
