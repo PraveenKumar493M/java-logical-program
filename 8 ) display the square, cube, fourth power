@@ -1,0 +1,22 @@
+//  Write a Java program that reads a number and display the square, cube,
+// and fourth power.
+
+import java.util.*;
+class HelloWorld {
+    public static void main(String[] args)
+    {
+        Scanner scanner=new Scanner(System.in);
+        
+        System.out.println("Enter the value ");
+        
+        int value=scanner.nextInt();
+        
+        int square=value*value;
+        int cube=square*value;
+        int fourth=cube*value;
+        
+         System.out.println("square value :"+square);
+        System.out.println("cube value :"+cube);
+         System.out.println("fourth value :"+fourth);
+    }
+}
