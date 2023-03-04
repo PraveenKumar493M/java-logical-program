@@ -4,7 +4,8 @@ public class Person {
   String name;
   
   
-  public void set_value() {
+  public void set_value() 
+  {
     age = 20;
     name = "Robin";
   }
