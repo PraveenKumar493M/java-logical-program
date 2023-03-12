@@ -2,6 +2,7 @@ public class Main
 {
 	public static void main(String[] args) 
   {
+  
 	   String str="hi this is were";
 	   String nstr=" ";
 	   char chn;
@@ -11,6 +12,8 @@ public class Main
 	       chn=str.charAt(i);
 	       nstr=chn+nstr;
 	   }
+	   
 	   System.out.print(nstr);
+	
 	}
 }
