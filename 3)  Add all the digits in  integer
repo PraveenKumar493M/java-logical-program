@@ -4,6 +4,7 @@
 // Input an integer between 0 and 1000: 565
 
 class HelloWorld {
+
     public static void main(String[] args) {
         int n=565,r,sum=0;
        while(n!=0){
@@ -11,6 +12,8 @@ class HelloWorld {
            sum=sum+r;
            n=n/10;
        }
+       
         System.out.println(sum);
     }
 }
+
