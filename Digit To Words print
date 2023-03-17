@@ -1,6 +1,5 @@
 class Practise
 {
-
 static void printValue(char digit)
 {
 	switch(digit)
@@ -57,8 +56,6 @@ static void printValue(char digit)
 		break;
 	}
 }
-
-
 static void printWord(String N)
 {
 	int i, length = N.length();
