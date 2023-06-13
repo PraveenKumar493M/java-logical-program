@@ -41,7 +41,6 @@ Scanner scanner = new Scanner(System.in);
 
 		System.out.println("Your speed in meters/second is "+mps);
 		System.out.println("Your speed in km/h is "+kph);
-		System.out.println("Your speed in miles/h is "+mph);
-		
+		System.out.println("Your speed in miles/h is "+mph);		
 }
 }
