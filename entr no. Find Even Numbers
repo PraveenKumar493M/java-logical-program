@@ -8,6 +8,7 @@ System.out.print("Enter the limit end: ");
 
 number = sc.nextInt(); 
 
+
 a=2;   
 System.out.print("Lit of even numbers: "); 
 
