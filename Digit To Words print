@@ -8,12 +8,10 @@ static void printValue(char digit)
 		System.out.print("Zero ");
 		break;
 
-	
 	case '1':
 		System.out.print("One ");
 		break;
 
-	
 	case '2':
 		System.out.print("Two ");
 		break;
