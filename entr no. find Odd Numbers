@@ -1,8 +1,7 @@
 class ODDNumber 
 {
     public static void main(String[] args) 
-    {
-    
+    {    
    int Oddnumber, b;  
    
 Scanner sc=new Scanner(System.in); 
