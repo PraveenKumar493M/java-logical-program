@@ -16,8 +16,7 @@ class HelloWorld
        int hours=minutes/60;
        int days=hours/24;
        int years=days/365;
-       int yeardays=days%365;
-       
+       int yeardays=days%365;     
           System.out.println("years :"+ years);  
         System.out.println("days :"+ yeardays);
        
