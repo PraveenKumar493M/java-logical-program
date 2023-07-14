@@ -12,8 +12,7 @@ class HelloWorld
            r=n%10;
            sum=sum+r;
            n=n/10;
-       }
-       
+       }       
         System.out.println(sum);
     }
 }
