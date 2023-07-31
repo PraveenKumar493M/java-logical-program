@@ -25,14 +25,15 @@ public class ReverseString
         }  
         //Showing reverse string  
         System.out.println("Reverse string using string iteration: "+reverseString);   
-    }  
+    } 
+
     //main() method starts  
-    public static void main(String[] args) {   
-          
+    public static void main(String[] args) {  
+
         //Getting string from the user  
         Scanner sc = new Scanner(System.in);   
-        String name = sc.nextLine();  
-          
+        String name = sc.nextLine();   
+
         //Calling performReverse() method to perform reverse  
         performReverse(name);  
     }  
