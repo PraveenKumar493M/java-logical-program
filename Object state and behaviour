@@ -12,12 +12,10 @@ public class Person {
     System.out.println("Name is " + name);
   }
   
- 
   public static void main(String [] args) {
     // creates a new Person object
     Person p = new Person(); 
-    
-    
+        
     p.set_value();
   }
 }
