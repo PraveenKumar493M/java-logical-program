@@ -11,6 +11,7 @@ public class Main
 	       chn=str.charAt(i);
 	       nstr=chn+nstr;
 	   }   
+
 	   System.out.print(nstr);
 	}
 }
