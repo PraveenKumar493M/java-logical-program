@@ -18,7 +18,6 @@ class HelloWorld
        int years=days/365;
        int yeardays=days%365;     
           System.out.println("years :"+ years);  
-        System.out.println("days :"+ yeardays);
-       
+        System.out.println("days :"+ yeardays);  
     }
 }
