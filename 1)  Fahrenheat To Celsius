@@ -2,7 +2,6 @@
 
 import java.util.Scanner;
 class Celsius 
-
 {
     public static void main(String[] args)
     {
