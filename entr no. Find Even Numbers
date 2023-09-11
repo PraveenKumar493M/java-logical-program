@@ -16,7 +16,6 @@ System.out.print("Lit of even numbers: ");
  while(a<=number)  
 {  
 //prints the even number  
-
 System.out.print(a +" ");  
 
 
