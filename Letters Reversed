@@ -15,7 +15,6 @@ public class Main
 	       {
 	           revword=revword+word.charAt(j);
 	       }
-
 	       revstring=revstring+revword+"";
 	   }
 
