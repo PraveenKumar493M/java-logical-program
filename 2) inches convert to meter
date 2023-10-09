@@ -1,4 +1,5 @@
 // 2. Write a Java program that reads a number in inches, converts it to meters  (ip--1000 inch,,  ans-25.0)
+
 import java.util.Scanner;
 class meter
 {
