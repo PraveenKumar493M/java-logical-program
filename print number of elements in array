@@ -9,6 +9,5 @@ public class JavaExample
     //Initializing a String array
     String [] names = new String [] {"Rick", "Luna", "Steve", "John"};
     System.out.println("Number of elements in the given String array: " + names.length);
-
   }
 }
