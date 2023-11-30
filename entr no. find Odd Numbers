@@ -25,7 +25,5 @@ System.out.print(b +" ");
 b=b+2;  
 
 }
-         
-     
     }
 }
