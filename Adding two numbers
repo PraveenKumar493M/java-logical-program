@@ -8,9 +8,7 @@ public class Addingno
      int one=arr.nextInt();
      
      System.out.println("enter the second number");
-     
      int two=arr.nextInt();
-     
      System.out.println(one+two);
     }
 }
