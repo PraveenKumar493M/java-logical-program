@@ -13,6 +13,7 @@
 // Your speed in miles/h is 0.26158804 
 import java.util.*;
 public class Exercise7 
+
 {
     public static void main(String[] args)
     {
