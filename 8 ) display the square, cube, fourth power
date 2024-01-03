@@ -1,6 +1,5 @@
 //  Write a Java program that reads a number and display the square, cube,
 // and fourth power.
-
 import java.util.*;
 class HelloWorld 
 {
