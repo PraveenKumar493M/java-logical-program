@@ -3,6 +3,7 @@ public class Addingno
 {
     public static void main(String args[]) 
     {
+
      Scanner arr=new Scanner(System.in);
      System.out.println("enter the first number");    
      int one=arr.nextInt();
