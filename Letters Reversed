@@ -17,6 +17,7 @@ public class Main
 	       }
 	       revstring=revstring+revword+"";
 	   }
+
 	   System.out.println(revstring);
 	}
 }
