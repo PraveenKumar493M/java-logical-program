@@ -1,6 +1,7 @@
  class EvenNumber {
     public static void main(String[] args) {
-    
+
+
   int number, a;  
 Scanner sc=new Scanner(System.in);  
 System.out.print("Enter the limit end: ");  
