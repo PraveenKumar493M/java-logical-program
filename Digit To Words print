@@ -1,4 +1,5 @@
 class Practise {
+
 static void printValue(char digit)
 {
 	switch(digit)
