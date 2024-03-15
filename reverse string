@@ -1,7 +1,6 @@
 import java.util.*;  
 //Creating ReverseString class  
-public class ReverseString
-{    
+public class ReverseString {    
     //Creating performReverse() method to reverse a string  
     public static void performReverse(String str)
     {    
