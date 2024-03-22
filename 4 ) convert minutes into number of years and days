@@ -6,7 +6,6 @@
 import java.util.*;
 class HelloWorld 
 {
-
     public static void main(String[] args) 
     {
        Scanner first=new Scanner(System.in);
