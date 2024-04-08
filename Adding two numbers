@@ -4,7 +4,6 @@ public class Addingno {
      Scanner arr=new Scanner(System.in);
      System.out.println("enter the first number");    
      int one=arr.nextInt();
-     
      System.out.println("enter the second number");
      int two=arr.nextInt();
      System.out.println(one+two);
