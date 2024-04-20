@@ -6,21 +6,13 @@ System.out.print("Enter the limit end: ");
 number = sc.nextInt(); 
 a=2;   
 System.out.print("Lit of even numbers: "); 
-
 //the while loop executes until the condition become false 
-
  while(a<=number)  
 {  
 //prints the even number  
 System.out.print(a +" ");  
-
-
 //increments the variable i by 2  
-
 a=a+2;  
-
-}
-         
-     
+} 
     }
 }
