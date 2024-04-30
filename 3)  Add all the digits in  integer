@@ -2,10 +2,8 @@
 // all the digits in the integer.
 // Test Data
 // Input an integer between 0 and 1000: 565
-
 class HelloWorld {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args)  {
           int n=565,r,sum=0;
            while(n!=0){
            r=n%10;
