@@ -1,9 +1,6 @@
-class Practise 
-{
-static void printValue(char digit)
-{
-	switch(digit)
-	{	
+class Practise {
+static void printValue(char digit) {
+	switch(digit) {	
 	case '0':
 		System.out.print("Zero ");
 		break;
