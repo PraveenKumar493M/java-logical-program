@@ -4,8 +4,7 @@
 // Expected Output :
 // 3456789 minutes is approximately 6 years and 210 days 
 import java.util.*;
-class HelloWorld 
-{
+class HelloWorld {
     public static void main(String[] args) 
     {
        Scanner first=new Scanner(System.in);
