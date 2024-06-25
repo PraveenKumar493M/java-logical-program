@@ -4,10 +4,8 @@ import java.util.*;
 class HelloWorld {
   public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        System.out.println("Enter the value ");
-        
+        System.out.println("Enter the value "); 
         int value=scanner.nextInt();
-        
         int square=value*value;
         int cube=square*value;
         int fourth=cube*value;
