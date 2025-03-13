@@ -5,6 +5,7 @@ public class Person {
     age = 20;
     name = "Robin";
   }
+
   public void get_value() {
     System.out.println("Age is " + age);
     System.out.println("Name is " + name);
