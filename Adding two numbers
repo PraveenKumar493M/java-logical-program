@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Addingno {
+
     public static void main(String args[]) {
 
      Scanner arr=new Scanner(System.in);
