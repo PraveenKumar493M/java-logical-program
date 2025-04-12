@@ -5,6 +5,7 @@ Scanner sc=new Scanner(System.in);
 System.out.print("Enter the limit end: ");  
 number = sc.nextInt(); 
 a=2;   
+
 System.out.print("Lit of even numbers: "); 
 //the while loop executes until the condition become false 
  while(a<=number)  {  
