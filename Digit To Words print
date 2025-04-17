@@ -42,8 +42,7 @@ static void printValue(char digit) {
 	}
 }
 
-static void printWord(String N)
-{
+static void printWord(String N) {
 	int i, length = N.length();
 
 	
