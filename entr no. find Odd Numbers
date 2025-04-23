@@ -7,8 +7,7 @@ Oddnumber = sc.nextInt();
 b=1;   
 System.out.print("Lit of ODD numbers: ");  
 //the while loop executes until the condition become false 
- while(b<=Oddnumber)  
-{ 
+ while(b<=Oddnumber) { 
 //prints the even number 
 System.out.print(b +" ");   
 //increments the variable i by 2  
