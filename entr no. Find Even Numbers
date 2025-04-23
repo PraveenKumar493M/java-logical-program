@@ -8,7 +8,7 @@ a=2;
 
 System.out.print("Lit of even numbers: "); 
 //the while loop executes until the condition become false 
- while(a<=number)  {  
+ while(a<=number) {  
 //prints the even number  
 System.out.print(a +" ");  
 //increments the variable i by 2  
