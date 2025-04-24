@@ -2,9 +2,10 @@
 // Test Data
 // Input weight in pounds: 452
 // Input height in inches: 72 
- // output 61.30159143458721 
+// output 61.30159143458721 
 import java.util.*;
 class HelloWorld {
+
     public static void main(String[] args) {
        Scanner first=new Scanner(System.in);
        System.out.println("enter the weight : ");
