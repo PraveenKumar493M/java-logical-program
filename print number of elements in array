@@ -1,5 +1,6 @@
 public class JavaExample {  
 public static void main(String[] args) {
+
     //Initializing an int array
     int [] numbers = new int [] {2, 4, 6, 8, 10, 12};
 
