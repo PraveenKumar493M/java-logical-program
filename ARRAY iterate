@@ -12,6 +12,7 @@ public static void main(String[] args) {
             System.out.println(itr.next());
 
         }
+
         System.out.println("Advanced For Loop:");
         for(Object obj : list) {
             System.out.println(obj);
