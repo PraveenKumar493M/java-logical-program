@@ -4,7 +4,8 @@ public static void main(String[] args) {
 Scanner sc=new Scanner(System.in); 
 System.out.print("Enter the  ODD limit end: ");  
 Oddnumber = sc.nextInt(); 
-b=1;   
+b=1;
+
 System.out.print("Lit of ODD numbers: ");  
 //the while loop executes until the condition become false 
  while(b<=Oddnumber) { 
