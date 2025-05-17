@@ -30,7 +30,6 @@ static void printValue(char digit) {
 		System.out.print("Seven ");
 		break;
 
-
 	case '8':
 		System.out.print("Eight ");
 		break;
@@ -44,15 +43,12 @@ static void printValue(char digit) {
 static void printWord(String N) {
 	int i, length = N.length();
 
-	
-	for (i = 0; i < length; i++)
-	{
+	for (i = 0; i < length; i++){
 		
 		printValue(N.charAt(i));
 	}
 }
-public static void main(String[] args)
-{
+public static void main(String[] args){
 	String N = "976";
 	printWord(N);
 }
