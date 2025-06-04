@@ -7,5 +7,6 @@ public class Addingno {
      System.out.println("enter the second number");
      int two=arr.nextInt();
      System.out.println(one+two);
+
     }
 }
