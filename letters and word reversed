@@ -3,6 +3,7 @@ public class Main {
 	   String str="hi this is were";
 	   String nstr=" ";
 	   char chn;
+
 	   for(int i=0;i<str.length();i++) {
 	       chn=str.charAt(i);
 	       nstr=chn+nstr;
